@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Airat
 
-### Radio Engineering Student | Aspiring Embedded Systems Developer
+### Radio Engineering Student | Aspiring Embedded Software Engineer
 
 ## About Me
 
