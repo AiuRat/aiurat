@@ -8,9 +8,9 @@
 
 ## Über mich
 
-Derzeit befinde ich mich im 2. Jahr meines Bachelorstudiums an der KNRTU-KAI im Fachbereich „Funktechnik“. Zuvor habe ich das Funkmechanische Kolleg Kasan (KRMC) abgeschlossen und eine mittlere Berufsausbildung als „Spezialist für elektronische Geräte und Vorrichtungen“ erhalten.
+Derzeit befinde ich mich im 2. Jahr meines Bachelorstudiums an der KNITU-KAI im Fachbereich „Funktechnik“. Zuvor habe ich das Funkmechanische Kolleg Kasan (KRMC) abgeschlossen und eine mittlere Berufsausbildung als „Spezialist für elektronische Geräte und Vorrichtungen“ erhalten.
 
-Meine Haupttätigkeiten umfassen die Konstruktion und den Entwurf von Gehäusen für elektronische Geräte in KOMPAS-3D und SolidWorks sowie die Erstellung von Zeichnungen, 3D-Modellen von Bauteilen und Konstruktionsunterlagen nach GOST-Standards in MS Word. Darüber hinaus beschäftige ich mich mit der Montage, Fehlersuche und Reparatur elektronischer Geräte, der Administration von Mikrocomputern sowie der Containerisierung.
+Meine Haupttätigkeiten umfassen die Konstruktion und den Entwurf von Gehäusen für elektronische Geräte in KOMPAS-3D und Autodesk Fusion sowie die Erstellung von Zeichnungen, 3D-Modellen von Bauteilen und Konstruktionsunterlagen nach GOST-Standards in MS Word. Darüber hinaus beschäftige ich mich mit der Montage, Fehlersuche und Reparatur elektronischer Geräte, der Administration von Mikrocomputern sowie der Containerisierung.
 
 Ich verfüge über praktische Erfahrung in der Teamarbeit, der Projektleitung und der Organisation. Ich beteilige mich aktiv an der gemeinsamen Entwicklung von Hardware- und Softwarelösungen im Rahmen der Organisation [aiurat-and-ilya](https://github.com/aiurat-and-ilya). Zudem bin ich in Projektteams an der vertragsbasierten Entwicklung schlüsselfertiger Geräte nach Kundenvorgaben beteiligt, auch unter engen Fristen und Zeitplänen.
 
@@ -43,8 +43,8 @@ Ich entwerfe Schaltpläne und führe das Routing von Leiterplatten (PCBs) durch.
 Ich entwerfe Bauteile, Baugruppen und Gehäuse für elektronische Geräte.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/%D0%9A%D0%9E%D0%9C%D0%9F%D0%90%D0%A1--3D-005B94?style=flat-square" alt="KOMPAS-3D"/>
-  <img src="https://img.shields.io/badge/SolidWorks-005B94?style=flat-square&logo=solidworks&logoColor=white" alt="SolidWorks"/>
+  <img src="https://img.shields.io/badge/Autodesk%20Fusion-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Fusion"/>
+  <img src="https://img.shields.io/badge/%D0%9A%D0%9E%D0%9C%D0%9F%D0%90%D0%A1--3D-005B94?style=flat-square" alt="КОМПАС-3D"/>
 </p>
 
 ### Linux und Administration
