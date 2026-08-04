@@ -8,9 +8,9 @@
 
 ## About Me
 
-I am currently pursuing my higher education as a 2nd-year undergraduate student at KNRTU-KAI, majoring in Radio Engineering. Previously, I graduated from the Kazan Radiomechanical College (KRMC), receiving a secondary vocational education as a "Specialist in Electronic Devices and Equipment".
+I am currently pursuing my higher education as a 2nd-year undergraduate student at KNITU-KAI, majoring in Radio Engineering. Previously, I graduated from the Kazan Radiomechanical College (KRMC), receiving a secondary vocational education as a "Specialist in Electronic Devices and Equipment".
 
-My main areas of activity include the design and engineering of enclosures for radio-electronic equipment in KOMPAS-3D and SolidWorks, as well as the development of drawings, 3D models of parts, and engineering documentation in compliance with GOST standards using MS Word. Additionally, I am engaged in the assembly, debugging, and repair of electronic equipment, microcomputer administration, and containerization.
+My main areas of activity include the design and engineering of enclosures for radio-electronic equipment in KOMPAS-3D and Autodesk Fusion, as well as the development of drawings, 3D models of parts, and engineering documentation in compliance with GOST standards using MS Word. Additionally, I am engaged in the assembly, debugging, and repair of electronic equipment, microcomputer administration, and containerization.
 
 I have practical experience in teamwork, project management, and organization. I actively participate in the joint development of hardware and software solutions within the [aiurat-and-ilya](https://github.com/aiurat-and-ilya) organization. I am also involved in contract-based turnkey device development based on client technical specifications as part of project teams, including working under tight deadlines and schedules.
 
@@ -43,8 +43,8 @@ I design schematic diagrams and perform PCB routing.
 I design parts, assemblies, and enclosures for radio-electronic equipment.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/%D0%9A%D0%9E%D0%9C%D0%9F%D0%90%D0%A1--3D-005B94?style=flat-square" alt="KOMPAS-3D"/>
-  <img src="https://img.shields.io/badge/SolidWorks-005B94?style=flat-square&logo=solidworks&logoColor=white" alt="SolidWorks"/>
+  <img src="https://img.shields.io/badge/Autodesk%20Fusion-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Fusion"/>
+  <img src="https://img.shields.io/badge/%D0%9A%D0%9E%D0%9C%D0%9F%D0%90%D0%A1--3D-005B94?style=flat-square" alt="КОМПАС-3D"/>
 </p>
 
 ### Linux and Administration
