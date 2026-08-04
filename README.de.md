@@ -4,7 +4,7 @@
 
 # 👋 Hallo, ich bin Airat
 
-### Funktechnik-Student | Angehender Embedded-Entwickler
+### Funktechnik-Student | Angehender Embedded-Software-Entwickler
 
 ## Über mich
 
